@@ -1,3 +1,5 @@
+// Importando Routes e GlobalStyles
+
 import React from 'react';
 import GlobalStyles from './globalStyles/styles'
 import Routes from './routes/routes';
